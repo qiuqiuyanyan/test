@@ -12,5 +12,6 @@ int main(){
 
 	str.assign(n.rbegin(),n.rend());//赋值到str字符串
 	cout << "  its reverse is: " << str<<".\n" ;
-	return 0;
+	cout <<"hello world">>;
+	ruturn 0;
 }
